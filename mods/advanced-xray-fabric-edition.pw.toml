@@ -1,0 +1,13 @@
+name = "Advanced XRay (Fabric Edition)"
+filename = "advanced-xray-fabric-1.19.4-1.4.0-build.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "917b601a4ad26ae8bc27aa85c4062209b8c72d27"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4470150
+project-id = 444663
