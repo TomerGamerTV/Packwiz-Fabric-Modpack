@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/advanced-xray-fabric-edition.pw.toml"
-hash = "b8874f05b8818bbf70838d90a36205cad7bccbf7d75bb7dce7a80851a8292ce9"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e259934dcbb1f7a3935e778a4614abf486b81d0da7ba4f11585d3784498b5c4"
 metafile = true
