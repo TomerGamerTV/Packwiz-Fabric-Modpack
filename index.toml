@@ -41,16 +41,6 @@ hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
-metafile = true
-
-[[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "4a1efe77a42baa7c8eb76e1639ac85dc180a0fa855b42d9a94d9ccee606db4a6"
-metafile = true
-
-[[files]]
 file = "mods/craftify.pw.toml"
 hash = "31c5ee8391fbcad11773a9de02b853c2e6313b2ef009de4499efaa0d7de01bb9"
 metafile = true
@@ -63,16 +53,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
-metafile = true
-
-[[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "bcb8fbe95be8e5183e231ebac69e3872601add32f55cf6b62106fe826b3c6e13"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 metafile = true
 
 [[files]]
@@ -131,16 +111,6 @@ hash = "2baa5d9096d1342a6f7947d242b8d2cf8339ad322085801078cfbcfd49ce7651"
 metafile = true
 
 [[files]]
-file = "mods/litematica-printer.pw.toml"
-hash = "7c613faa09bd9479661e29da84c2e6deea2b5e30a10d5cf585ff5842e916cb55"
-metafile = true
-
-[[files]]
-file = "mods/litematica.pw.toml"
-hash = "8c4e1d3f2fffb4e3f3ef498dfeb24d999bdc60d6c717309b79eb552f804c15d6"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
@@ -161,23 +131,8 @@ hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
 metafile = true
 
 [[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "37f74b2d5ffbb4829c9318182ae7f2502b9441a0bacbc77eaa3d6495828e800d"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
-metafile = true
-
-[[files]]
-file = "mods/simple-chunkloader-fabric.pw.toml"
-hash = "6ab8a916f100c5ba873d0c66bfb303fb7c031bc67d1a717059d44edebdc09493"
-metafile = true
-
-[[files]]
-file = "mods/simplevillagers.pw.toml"
-hash = "baff0a90bb74882314ffa5bf95f65c04704788abd82b51b80be57d4f4c1a8e97"
 metafile = true
 
 [[files]]
@@ -201,11 +156,6 @@ hash = "c968a02d2a2b1f698d46134bedc15e4ccc8b10db0670c83f62ce80104a4cb187"
 metafile = true
 
 [[files]]
-file = "mods/techutils.pw.toml"
-hash = "571dcb69232bdca0a0ea8b285ed3a8ebc6288ae879bcd5b18df27957f42867a5"
-metafile = true
-
-[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "76262ae83e45259425577a35d7ce8c8d65fa3afe67ab16deaac6cbc67efe494e"
 metafile = true
@@ -213,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "ac2fc8c7f47d995f1dcd7301a970a60b7579e879f4e8d1fef735f9687a227ce9"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "768d27fe50b429d4389308f127df522c7eaf6c31d9cebb1aad06ba554b23e27f"
 metafile = true
 
 [[files]]
